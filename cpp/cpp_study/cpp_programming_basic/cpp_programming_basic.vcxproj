@@ -18,11 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="001.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d183a5fb-5128-4899-b363-5273e61a8804}</ProjectGuid>
-    <RootNamespace>cppstudy</RootNamespace>
+    <ProjectGuid>{d2ebec5c-1611-47ca-a353-8afee8bcbc84}</ProjectGuid>
+    <RootNamespace>cppprogrammingbasic</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
